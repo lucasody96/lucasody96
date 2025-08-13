@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @lucasody96
-- 👀 I’m interested in  adquirir conhecimentos
-- 🌱 I’m currently  fazendo curso de técnico de informática
-- 📫 How to reach me : lucasody@gmail.com
+- 👋 Olá, eu sou o @lucasody96
+- 👀 Tenho interesse em adquirir conhecimentos
+- 🌱 Atualmente, estou fazendo graduação em análise e desenvolvimento de sistemas
+- 📫 email: lucasody@gmail.com
 
 <!---
 lucasody96/lucasody96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
