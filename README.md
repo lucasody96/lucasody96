@@ -73,6 +73,6 @@ Participante do desafio Hipertron 120 dias. Treino 5x por semana. Apaixonado por
 ## 📫 Entre em Contato
 
 - **Email:** lucasody@gmail.com
-- **LinkedIn:** [linkedin.com/in/lucasody](https://linkedin.com/in/lucasody) 
+- **LinkedIn:** [www.linkedin.com/in/lucas-o-6a912086](https://www.linkedin.com/in/lucas-o-6a912086/)) 
 
 *Última atualização: Maio 2026*
